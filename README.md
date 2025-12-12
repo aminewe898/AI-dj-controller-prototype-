@@ -4,4 +4,4 @@ this project is just a prototype for the final big full dj just a small start it
 
 #What’s inside#
 code_for_esp32.ino — Core firmware for ESP32 / microcontroller logic.
-web_app_code.html — Web-based UI prototype.
+web_app_code.html — Web-based UI prototype, schematics ,3d printibal case , BOM.csv , mission log .
